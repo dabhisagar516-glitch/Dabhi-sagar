@@ -1,0 +1,10 @@
+{
+  "name": "HomeFinder India \u2014 Rent or Buy",
+  "short_name": "HomeFinder India",
+  "description": "Search homes to rent or buy across India.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#155eef",
+  "icons": []
+}
